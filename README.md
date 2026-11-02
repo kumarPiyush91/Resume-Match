@@ -1,4 +1,6 @@
 # ResumeMatch
+<img width="613" height="394" alt="image" src="https://github.com/user-attachments/assets/c50af7f7-e4d4-40c5-a855-c2edd5602537" />
+
 
 Upload a resume (PDF/DOCX), extract skills in the browser, and rank live remote software jobs by how many of each job's required skills you have.
 
